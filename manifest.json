@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "flake8-2020",
+  "versions": [
+    {
+      "commit": "7c8c9ac8a96336a8fe540538ca3b10e4956318a0",
+      "parsed_at": "2026-10-18T05:52:13.418132+00:00",
+      "filetree": "filetree/7c8c9ac8a96336a8fe540538ca3b10e4956318a0.nq.gz",
+      "blobs": [
+        "blob/9b21c7136e13bfdf43feef39a42bbf3ac4dea55a.nq.gz",
+        "blob/5bdd50e53efa3c0f05787078f0056b24f04e38a7.nq.gz",
+        "blob/bda8bfe38f48beb0b43a79ba611b2fe6683caf61.nq.gz",
+        "blob/ca1d90ea180858ae143c0e62d920e350d3acc62d.nq.gz",
+        "blob/3d93aefb2da505dba9c0114404cfaaeee5ad0d3f.nq.gz",
+        "blob/5370c9485451439199ab7ab9ba30c95d9a046275.nq.gz",
+        "blob/d3cc19d5ec04e7eebff9eb549818ab4f5fb8afe4.nq.gz",
+        "blob/8c38c3fa07daab3596dae959bfec1e3571868cb0.nq.gz",
+        "blob/2375625110fd8b0b8f973edfe45ccab994fcc904.nq.gz",
+        "blob/5a4128de7f16972c216a66cf8d9b13716c1b6111.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/6e20be810b6719b4c884fd46c75836291e88324a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
