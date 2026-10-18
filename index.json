@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "flake8-2020",
+  "versions": [
+    {
+      "commit": "7c8c9ac8a96336a8fe540538ca3b10e4956318a0",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:54:40.690116+00:00"
+    }
+  ]
+}
