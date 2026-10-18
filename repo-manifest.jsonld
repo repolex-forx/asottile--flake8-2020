@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/flake8-2020/commit/7c8c9ac8a96336a8fe540538ca3b10e4956318a0",
       "git:hexsha": "7c8c9ac8a96336a8fe540538ca3b10e4956318a0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:54:40.689558+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/flake8-2020/commit/1ecf90e3bae569c6560a48cf2b0597340fe81cbc",
